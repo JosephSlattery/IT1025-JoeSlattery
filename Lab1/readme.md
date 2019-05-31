@@ -1,6 +1,6 @@
-#Executive Summary 
-#Information System Components
-#GitHub
+# Executive Summary 
+# Information System Components
+# GitHub
 Client-Server Architecture
 Cloud Computing
-#Conclusion
+# Conclusion
