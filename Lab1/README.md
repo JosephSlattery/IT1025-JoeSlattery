@@ -21,7 +21,12 @@ The Control Unit receives a set of numbers from the RAM and it is sent to the AL
 ## CUP, Input & Output
 When an item is scanned a number associated to the item is sent to the RAM (input) where that information is then stored, sent to the CPU to be processed, and then the information is sent to the display (output). 
 ## Logic Gates and Circuits
-
+### Truth Tables
+Truth tables show two possible inputs and the output depending on what kind of gate it is going through.
+### NAND gates vs AND gates on a Truth Table
+AND gates will have an output of "false" if either of the inputs are "false" and will only have an output of "true" if both inputs are "true". NAND gates will have an output of "true" if either of the inputs are "false" and will only have an output of "false" if both inputs are "true".
 ## IEEE
-
+### Ethically Aligned Design
+Thier purpose is to ensure user's human rights aren't being infringed upon, changes and advances will make users better off, make sure that products/services are reliable, and holds developers accountable and responsible of anything that can happen to the user's data. 
 # Conclusion
+In Lab1 of IT1025 we covered what an information system is, processing and computing, the parts of the computer that do the computing, and the IEEE that exists to protect consumers and guarantee quality of electronic products and services. 
