@@ -12,8 +12,12 @@ An ERP system is used to centralize a company's data under one application makin
 # Virtualization
 
 # Python
-
+## Pseudo-code
+It's a code that uses normal/informal words in its language, making it easier to read and write. 
+## Interpreted language vs. a compiled language
+Compiled languages require a compiler to convert the code into your computer's native language. Python is an example of an interpreted language; Python does not require a compiler to convert the code. Python automatically converts the code into binary when running your code. 
 # Career Exploration
+
 ### College Central
 ### Certifications
 ### Certificates and Degrees
