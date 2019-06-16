@@ -1,4 +1,4 @@
-### Executive Summary 
+# Executive Summary 
 In lab 3 of IT1025 we will be covering operating systems, python IDLE, be introduced to graphics in applications like Lucidchart, and have a brief introduction to networking and it's components. 
 
 # Python IDLE
@@ -19,22 +19,25 @@ greeting='Hello'
 ### Integers- Integers are whole numbers that hold value. 
 1+1 the output will be 2 
 
-### Graphics
+# Graphics
+## Raster vs. Vector Graphics
+A raster is an image that has fewer pixels making up the image. This makes the finer details of the image appear blurry and unusable when zoomed or cropped. These images are better when you need a small image that you aren't going to zoom in on or crop out a section of. 
+Vector images are higher quality/larger images made with more pixels. Making it easier to see small details when zoomed or cropped. Vectors are pretty much good for anything. You can use them as is, crop out a section or zoom without compromising quality of the image. 
+## Lossless vs. Lossy Compression
+Lossless and Lossy compression also deals with image quality. If a developer wants to keep the quality of the original image, they can use lossless compression. If the developer doesn't care too much about the quality of the image, they can use a lossy compression method. This will result in a smaller file size and depending on the method the image will look almost identical to the original. 
+## File Formats
 
-##### Raster vs. Vector Graphics
-##### Lossless vs. Lossy Compression
-##### File Formats
-##### File Properties
+## File Properties
 
-### Lucidchart
+# Lucidchart
 
-### Introduction to Networking
-##### Data Transmission
-##### Networking Hardware
-##### Network Topologies
-##### Network Design
-##### NSA/CSS
+# Introduction to Networking
+## Data Transmission
+## Networking Hardware
+## Network Topologies
+## Network Design
+## NSA/CSS
 
-### Conclusion
+# Conclusion
 Include your professional conclusion here
 
