@@ -29,16 +29,25 @@ Lossless and Lossy compression also deals with image quality. If a developer wan
 Jpgs, gifs and pngs are all image file types. Jpgs are lossy file types that let you choose how lossy or compressed you want your image to be. Gifs can be a lossy file type, but it supports animated images. Pngs are lossless file types that replaced gifs for still images.
 ## File Properties
 I made a logo for a LAN center with sort of an arcade design. There are twenty paths making up the ethernet port and letters. Some letters took multiple paths to make using the pen tool. 
-The file size is 3.58KBs and it opens with internet explorer by default. You can change it to google chrome based on your preference. 
+The file size is 3.58KBs and it opens with Internet Explorer by default. You can change it to Google Chrome based on your preference. 
 # Lucidchart
-
+I found Lucidchart to be intuitive and easy to use while following the flowchart elements guide. 
 # Introduction to Networking
 ## Data Transmission
+Packets - Unit of data 
+Packet-Switching - Technology that allows packets of data to be routed based on destination address  
+IP Address - Unique identifying number  
+DNS - Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
+Protocol - Set of rules to allow devices to communicate 
 ## Networking Hardware
+A switch can read store mac addresses of the machines connected to it. This way the packets will only be sent to the machine specified. Where a hub will send the packets to every machine connected to it.
+A router allows machines on a local network to communicate with other machines on a separate network over the internet. Hubs and switches only allow machines on the local network to communicate with each other and nothing more. 
 ## Network Topologies
+A single point of frailer is when a network can't function due to its hub, switch or router no longer working. 
+An infrastructure topology uses a router, a switch and a single wireless access point and a wireless mesh uses multiple wireless access points. A wireless mesh would be better because it is less likely to have a single point of frailer when one of the wireless access points goes down. 
 ## Network Design
+On this network the router is connected to the wireless access point where the two computers and the printers will communicate wirelessly. 
 ## NSA/CSS
-
+The NSA protects data that is important to the US government preventing hostile or untheorized people from accessing it. 
 # Conclusion
-Include your professional conclusion here
-
+In unit 3 I learned the purpose if a computers operating system, how to code is simple program using Python IDLE, how to make a graphic/logo using Vector and Lucidchart, the basic functions of a network and it's topologies. 
