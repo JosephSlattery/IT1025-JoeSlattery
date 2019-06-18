@@ -26,7 +26,7 @@ Vector images are higher quality/larger images made with more pixels. Making it 
 ## Lossless vs. Lossy Compression
 Lossless and Lossy compression also deals with image quality. If a developer wants to keep the quality of the original image, they can use lossless compression. If the developer doesn't care too much about the quality of the image, they can use a lossy compression method. This will result in a smaller file size and depending on the method the image will look almost identical to the original. 
 ## File Formats
-
+Jpgs, gifs and pngs are all image file types. Jpgs are lossy file types that let you choose how lossy or compressed you want your image to be. Gifs can be a lossy file type, but it supports animated images. Pngs are lossless file types that replaced gifs for still images.
 ## File Properties
 
 # Lucidchart
