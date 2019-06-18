@@ -28,7 +28,8 @@ Lossless and Lossy compression also deals with image quality. If a developer wan
 ## File Formats
 Jpgs, gifs and pngs are all image file types. Jpgs are lossy file types that let you choose how lossy or compressed you want your image to be. Gifs can be a lossy file type, but it supports animated images. Pngs are lossless file types that replaced gifs for still images.
 ## File Properties
-
+I made a logo for a LAN center with sort of an arcade design. There are twenty paths making up the ethernet port and letters. Some letters took multiple paths to make using the pen tool. 
+The file size is 3.58KBs and it opens with internet explorer by default. You can change it to google chrome based on your preference. 
 # Lucidchart
 
 # Introduction to Networking
