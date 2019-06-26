@@ -2,6 +2,10 @@
 Include your executive summary here...
 
 ### Object Oriented Programming (OOP)
+The methods are swim and be_awsome. The property of the shark is _init_.
+
+A constructor will initalize data automaticly.
+
 
 ### Unified Modeling Language (UML)
 
